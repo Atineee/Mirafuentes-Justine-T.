@@ -1,6 +1,6 @@
 import { Section } from "@/components/common/Section";
 import { Button } from "@/components/ui/button";
-import { ArrowRight, Download, Mail } from "lucide-react";
+import {Download, Mail } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -13,12 +13,12 @@ export function AboutHero() {
                         About Me
                     </h1>
                     <p className="max-w-[700px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                        Hi, I'm <strong>Justine Mirafuentes</strong>, a BSIT graduate based in Cebu. 
+                        Hi, I&apos;m <strong>Justine Mirafuentes</strong>, a BSIT graduate based in Cebu. 
                         I am passionate about building efficient, scalable, and user-friendly applications. 
                         I have experience working with technologies like <strong>PHP, C#, JavaScript</strong>, 
                         and I enjoy creating systems such as POS applications and web-based solutions.
                         <br /><br />
-                        I’m currently growing my skills in full-stack development and aiming to build impactful 
+                        I&apos;m currently growing my skills in full-stack development and aiming to build impactful 
                         digital products that solve real-world problems.
                     </p>
                 </div>

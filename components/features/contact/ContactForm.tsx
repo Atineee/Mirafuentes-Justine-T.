@@ -51,7 +51,7 @@ export function ContactForm() {
 						Let’s Work Together
 					</h1>
 					<p className="text-muted-foreground md:text-xl/relaxed">
-						Hi, I'm <strong>Justine Mirafuentes</strong>, a BSIT graduate and aspiring Full Stack Developer. 
+						Hi, I&apos;m <strong>Justine Mirafuentes</strong>, a BSIT graduate and aspiring Full Stack Developer. 
 						If you have a project, job opportunity, or collaboration in mind, feel free to reach out. 
 						I’m always open to building impactful and meaningful systems.
 					</p>

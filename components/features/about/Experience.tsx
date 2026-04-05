@@ -1,4 +1,3 @@
-
 import { Section } from "@/components/common/Section";
 
 export function Experience() {
@@ -28,7 +27,7 @@ export function Experience() {
             <div className="space-y-4">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Work Experience</h2>
                 <p className="text-muted-foreground md:text-lg/relaxed max-w-[700px]">
-                    My professional journey and the roles I've held.
+                    My professional journey and the roles I&apos;ve held.
                 </p>
             </div>
 

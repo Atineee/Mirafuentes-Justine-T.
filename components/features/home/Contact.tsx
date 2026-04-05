@@ -11,8 +11,8 @@ export function Contact() {
                     Get in Touch
                 </h2>
                 <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                    I'm Justine Mirafuentes, a BSIT graduate and aspiring full stack developer. 
-                    I'm currently open to job opportunities, freelance projects, or collaborations. 
+                    I&apos;m Justine Mirafuentes, a BSIT graduate and aspiring full stack developer. 
+                    I&apos;m currently open to job opportunities, freelance projects, or collaborations. 
                     If you have any questions or would like to work with me, feel free to reach out!
                 </p>
 
